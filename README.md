@@ -47,6 +47,7 @@ Rating: 5 stars, 4 stars, 3 stars, 2 stars, 1 star
 Clone the repository
 
 Install the required dependencies
+
 streamlit run app.py
 
 
