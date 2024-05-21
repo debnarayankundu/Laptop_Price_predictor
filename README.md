@@ -1,5 +1,9 @@
 # Laptop_Price_predictor
 Welcome to the Laptop Price Predictor! This Streamlit application allows users to input various specifications of a laptop and get a predicted price based on a pre-trained machine learning model.
+## how to use
+go to the link: https://laptoppricepredictor-umiuckywyrppzylesfld5w.streamlit.app/
+
+and fill the specifications 
 
 ## Features
 Interactive UI: User-friendly interface with select boxes for various laptop specifications.
