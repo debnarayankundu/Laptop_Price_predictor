@@ -51,3 +51,8 @@ streamlit run app.py
 
 
 
+![image](https://github.com/debnarayankundu/Laptop_Price_predictor/assets/159264658/b3b0b6d5-1231-4023-a97a-14c627f32636)
+
+
+
+
